@@ -1,0 +1,65 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "Acifix-400",
+            "price": 450,
+            "image": "./images/1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Imatil",
+            "price": 100,
+            "image": "./images/2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Reckeweg r19",
+            "price": 120,
+            "image":"./images/3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Flexivan-ER1",
+            "price": 1100,
+            "image":"./images/4.png"
+        },
+        {
+            "id": 5,
+            "title":"Maxman" ,
+            "price": 2200,
+            "image":"./images/5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Max Pro 20",
+            "price": 80,
+            "image":"./images/6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "MyCofree-250",
+            "price": 330,
+            "image":"./images/7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Napa Extend",
+            "price": 55,
+            "image":"./images/8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Ostocal 500mg",
+            "price": 130,
+            "image":"./images/9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Seclo 20",
+            "price": 50,
+            "image":"./images/10.jpg"
+        }
+    ]
+}
